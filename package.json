@@ -1,5 +1,5 @@
 {
-  "name": "letters4bffls",
+  "name": "letters2bffls",
   "private": true,
   "scripts": {
     "dev:svg": "node ./scripts/svg-playground/index.js"
