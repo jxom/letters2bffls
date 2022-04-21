@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="638px" height="431px" viewBox="0 0 638 431" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#000000" x="0" y="0" width="638" height="431"></rect>
+        <text x="23" y="40" font-size="20" font-weight="normal" fill="#FFFFFF">
+            gm awkweb.eth,
+        </text>
+        <g id="message" transform="translate(23.000000, 66.000000)" fill="#FFFFFF" font-size="20" font-weight="normal">
+            <text x="0" y="18">
+                I was just wanting to talk to you
+            </text>
+            <text x="0" y="46">
+                about an interesting opportunity
+            </text>
+            <text x="0" y="74">
+                I have recently discovered in
+            </text>
+            <text x="0" y="102">
+                the Ethereum ecosystem that will
+            </text>
+            <text x="0" y="130">
+                totally blow your mind. It will
+            </text>
+            <text x="0" y="158">
+                absolutely revolutionalize the
+            </text>
+            <text x="0" y="186">
+                industry, and I will be participating
+            </text>
+            <text x="0" y="214">
+                by all means to get this job done
+            </text>
+            <text x="0" y="242">
+                to it's full potential.
+            </text>
+        </g>
+        <g id="wagmi" transform="translate(23.000000, 330.000000)" fill="#FFFFFF" font-size="20" font-weight="normal">
+            <text x="0" y="18">
+                wagmi,
+            </text>
+            <text x="0" y="47">
+                moxey.eth,
+            </text>
+            <text x="0" y="76">
+                0xa5cc...78ac, Avalanche, 43114
+            </text>
+        </g>
+        <g id="Bitmap">
+            <rect x="419.082474" y="19" width="200" height="200" id="rect-1"></rect>
+            <image x="419.082474" y="19" width="200" height="200" href="https://www.nme.com/wp-content/uploads/2021/07/RickAstley2021.jpg" preserveAspectRatio="xMidYMid meet"></image>
+            <use stroke="#FFFFFF" stroke-width="2" xlink:href="#rect-1"></use>
+        </g>
+        <g id="address" transform="translate(402.000000, 292.000000)">
+            <text font-size="16" font-weight="normal" fill="#FFFFFF" x="0" y="12">
+                awkweb.eth
+            </text>
+            <text font-size="16" font-weight="normal" fill="#FFFFFF" x="0" y="47">
+                0xA0Cf...251e
+            </text>
+            <text font-size="16" font-weight="normal" fill="#FFFFFF" x="0" y="82">
+                Polygon, 137
+            </text>
+            <line x1="0.5" y1="20.5" x2="194.5" y2="21" id="Line-2" stroke="#979797" stroke-linecap="square"></line>
+            <line x1="0.5" y1="55.5" x2="194.5" y2="56" id="Line-2" stroke="#979797" stroke-linecap="square"></line>
+            <line x1="0.5" y1="90.5" x2="194.5" y2="91" id="Line-2" stroke="#979797" stroke-linecap="square"></line>
+        </g>
+        <g id="stamp" transform="translate(326.661943, 116.633736)">
+            <g transform="translate(92.435045, 88.020189) rotate(30.000000) translate(-92.435045, -88.020189) translate(18.491715, 31.223704)">
+                <path d="M52.5824474,105.164895 C57.0371812,105.164895 61.3625307,104.610935 65.4933671,103.568143 C88.2915216,97.8129599 105.164895,77.1681973 105.164895,52.5824474 C105.164895,23.5419636 81.6229312,-1.71085145e-15 52.5824474,-1.71085145e-15 C23.5419636,-1.71085145e-15 5.94804727e-14,23.5419636 5.94804727e-14,52.5824474 C5.94804727e-14,81.6229312 23.5419636,105.164895 52.5824474,105.164895 Z" fill="#000000"></path>
+            </g>
+            <circle stroke="#FFFFFF" fill="#000000" stroke-width="2" transform="translate(76.602881, 76.278540) rotate(30.000000) translate(-76.602881, -76.278540) " cx="76.6028808" cy="76.2785404" r="54.8397671"></circle>
+            <text transform="translate(82.829679, 76.422625) rotate(-10.000000) translate(-82.829679, -81.422625) " font-size="12" letter-spacing="1" fill="#FFFFFF" x="44.6725049" y="78.4226245">
+                21/04/2022
+            </text>
+            <text transform="translate(88.829679, 110.422625) rotate(-10.000000) translate(-82.829679, -81.422625) " font-size="12" letter-spacing="1" fill="#FFFFFF" x="44.6725049" y="78.4226245">
+                wagmi post
+            </text>
+            <line x1="36.7395771" y1="50.9770885" x2="110.896004" y2="50.9770885" stroke="#FFFFFF" stroke-linecap="square" transform="translate(73.817790, 56.977088) rotate(-10.000000) translate(-73.817790, -56.977088) "></line>
+            <line x1="43.2803407" y1="90.0716022" x2="117.436767" y2="90.0716022" stroke="#FFFFFF" stroke-linecap="square" transform="translate(80.358554, 94.071602) rotate(-10.000000) translate(-80.358554, -94.071602) "></line>
+        </g>
+        <line x1="318.5" y1="37.5" x2="318.5" y2="394.5" id="Line-3" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></line>
+    </g>
+</svg>
